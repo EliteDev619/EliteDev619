@@ -8,6 +8,7 @@
 </thead>
 </table>
 
+<a><h2>Stats</h2></a>
 <p align="center">
   	<!-- <a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<!-- <a href="https://www.linkedin.com/in/andzhei-kalenykov-a672b6225"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
