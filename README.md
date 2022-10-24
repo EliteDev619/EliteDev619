@@ -8,7 +8,7 @@
 </thead>
 </table>
 
-<a><h2>Stats</h2></a>
+<h3 align="left">Contact with me:</h3>
 <p align="center">
   	<!-- <a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<!-- <a href="https://www.linkedin.com/in/andzhei-kalenykov-a672b6225"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
@@ -19,7 +19,7 @@
 </p>
 
 
-<a><h2>Stats</h2></a>
+<h3 align="left">Status:</h3>
 <div>
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=EliteDev619&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMaster926&theme=onedark&hide_border=true"/>
