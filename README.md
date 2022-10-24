@@ -8,6 +8,23 @@
 </thead>
 </table>
 
+<p align="center">
+  	<!-- <a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<!-- <a href="https://www.linkedin.com/in/andzhei-kalenykov-a672b6225"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
+	<a href="mailto:elitedev619@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://join.skype.com/invite/tAqyqT4zdwOd"><img src="https://img.icons8.com/doodle/48/000000/skype.png" alt="Telegram app"/></a>
+	<a href="https://t.me/LuckyDev926"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png" alt="Telegram app"/></a>
+	<a href="https://wa.me/12097534219"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+</p>
+
+
+<a><h2>Stats</h2></a>
+<div>
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=EliteDev619&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMaster926&theme=onedark&hide_border=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=EliteDev619&row=1&theme=onedark&no-frame=true"/>
+</div>
+
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
