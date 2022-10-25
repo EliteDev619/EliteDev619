@@ -21,9 +21,9 @@
 
 <h3 align="left">Status:</h3>
 <div>
-    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=EliteDev619&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=monte0920&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMaster926&theme=onedark&hide_border=true"/>
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=EliteDev619&row=1&theme=onedark&no-frame=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=monte0920&row=1&theme=onedark&no-frame=true"/>
 </div>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
